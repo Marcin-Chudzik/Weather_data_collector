@@ -107,6 +107,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+Myenv
 env.bak/
 venv.bak/
 
